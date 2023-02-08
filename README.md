@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 My name's Alice and after working in e-commerce for the past 5 years, I've decided to pursue my dream to become a Front-End / Web Developer!<br/><br/>
+
+:point_right: Pronouns: She/Her &emsp;&emsp; :point_right: LinkedIn: [alice-emily-day](https://www.linkedin.com/in/alice-emily-day/)<br/><br/>
+
 I'm currently studying on the **Web Development Bootcamp** with HyperionDev which is due to finish in March 2023. <br/>
 By the end of the bootcamp, I will have learnt how to build and design dynamic, data driven web applications using **HTML**, **CSS**, **JavaScript**, **React** and **Node**, and gained valuable experience working both independently and collaboratively to debug code and problem-solve. 
 
