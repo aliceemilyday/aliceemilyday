@@ -21,6 +21,7 @@ By the end of the bootcamp, I will have learnt how to build and design dynamic, 
   - AJAX
   - Git
   - Node
+  - React
 - HTML 
   - HTML basics
   - Semantic HTML
@@ -30,7 +31,7 @@ By the end of the bootcamp, I will have learnt how to build and design dynamic, 
   - Responsive web design
   
 #### Over the next month, we will be studying:
-- React and finally building an app.
+- Express, Database Interaction and creating a full stack MERN application.
 
 ##### You can see my most recent project **[HERE](https://github.com/aliceemilyday/finalCapstone)**, where I have built a dynamic website utilising my newly developed skills in HTML, CSS and JavaScript
 
